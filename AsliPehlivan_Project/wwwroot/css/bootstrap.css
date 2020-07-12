@@ -4079,6 +4079,7 @@ input[type=submit].btn-block {
 }
 
 .nav {
+
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
